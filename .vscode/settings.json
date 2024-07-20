@@ -1,4 +1,0 @@
-{
-    "appService.defaultWebAppToDeploy": "undefined/subscriptions/8a7836df-4d2f-448b-96da-281e24191c0d/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/teamnovus",
-    "appService.deploySubpath": "."
-}
