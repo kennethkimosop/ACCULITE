@@ -4,7 +4,7 @@ Welcome to the web Platform Project built using the MERN (MongoDB, Express.js, R
 
 **Live App Demo** 
 - https://zoe-afya.vercel.app/
-- https://www.youtube.com/watch?v=Og8GGC8lOOM
+
 
 ## Features
 
@@ -83,7 +83,7 @@ npm run dev
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/Cheiy04/Zoe_Afya.git
+   git clone https://github.com/kennethkimosop/ACCULITE.git
    ```
 
 3. Navigate to the project directory:
