@@ -1,5 +1,6 @@
+_TEAM ACCULITE_
 
-**ACCULITE Project**
+**ZoAfya Project**
 Introduction
 Problem Statement
 Solution Overview
@@ -11,7 +12,13 @@ Future Plans
 Contributors
 Introduction
 
-**Welcome to the ACCULITE project!** 
+
+
+**Welcome to the ZoAfya project!** 
+
+**Live App Demo**
+https://zoe-afya.vercel.app/
+
 This repository houses the codebase and documentation for ACCULITE, a cutting-edge digital health platform designed to bridge the healthcare gap in Africa. Our goal is to provide accessible, quality healthcare to underserved populations through innovative use of AI and IoT technologies.
 
 **Problem Statement**
